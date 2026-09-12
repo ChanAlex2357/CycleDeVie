@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CycleDeVie</string>
+    <string name="titre_main">Mini-TP 3 — Observer le cycle de vie\n(Logcat : filtrer sur CYCLE)</string>
+    <string name="titre_second">Second écran (CYCLE-2)\nBouton retour pour revenir</string>
+    <string name="btn_second">Ouvrir le second écran</string>
+    <string name="btn_partager">Partager (à compléter)</string>
+</resources>
